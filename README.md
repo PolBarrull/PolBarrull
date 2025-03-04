@@ -1,16 +1,23 @@
 ### Hello World 👋
 
-<!--
-**PolBarrull/PolBarrull** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hola, soy Pol y actualmente estoy estudiando un Ciclo Superior en Desarrollo de Aplicaciones Multiplataforma (DAM). 💻📱
 
-Here are some ideas to get you started:
+## Sobre mí
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎓 Actualmente estoy cursando mis estudios en DAM, aprendiendo a desarrollar aplicaciones móviles y nuevos lenguajes y tecnologías
+
+🚀 Me apasiona aprender nuevos lenguajes y aprender nuevas tecnologias.
+
+## Habilidades
+
+💻 Lenguajes: Java, Kotlin, Python, SQL, C#
+
+📱 Desarrollo móvil: Android (Kotlin y Java)
+
+📊 Bases de datos: MySQL
+
+🔧 Herramientas: Git, GitHub, Android Studio, Visual Studio Code
+
+### ¿En qué estoy trabajando?
+
+🔨 Actualmente desarrollando una app móvil como proyecto final del ciclo formativo.
